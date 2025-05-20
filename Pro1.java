@@ -8,7 +8,7 @@ public class Pro1 {
 			System.out.println("Panda");
 		}
 		
-		System.out.println("Thanks for tracking the files using the git bash");
+		System.out.println("Thanks for tracking the files using the git bash! Welcome");
 	}
 
 }
